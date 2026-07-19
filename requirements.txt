@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+transformers
+torch
+faiss-cpu
+pandas
+numpy
+scikit-learn
+accelerate
+huggingface-hub
+ipywidgets
+tqdm
